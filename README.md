@@ -2,17 +2,6 @@ Overview
 
 This project focuses on predicting the future stock prices of NVIDIA (NVDA) using various machine learning models. By leveraging historical stock data and relevant features, we aim to forecast NVIDIA’s stock movements, helping investors make more informed decisions.
 
-Table of Contents
-
-	1.	Project Description
-	2.	Dataset
-	3.	Installation
-	4.	Usage
-	5.	Methodology
-	6.	Results
-	7.	Contributing
-	8.	License
-	9.	Contact
 
 Project Description
 
